@@ -15,7 +15,7 @@ I must note that it is incompetently constructed SDK, CMAKE-based, for a handful
 Initially, it was a **Linux**-dependent SDK ( I don't know how it is now, but it probably works with difficulty on Windows ).<br>
 So, CMAKE collects Build Variables depending on the settings of your project.<br>
 By Build Variables, understand: **KEY = VALUE** ... CFLAGS = -DSOME -IPATH etc.<br>
-With these variables, MAKE files are eventually built, which compile "everything" (a simple blink takes a minute and much more).<br><br>
+With these variables, MAKE files are eventually built, which compile "everything" (a simple blink takes a minute and much more).<br>
 
 The problem was that CMAKE/MAKE is difficult to interpret for embedding in an IDE  ( let's say VSCode )<br>
 and if they "**lazily**" use specific PC OS Shell commands:<br>
