@@ -59,4 +59,4 @@ CLICK, CLICK (almost like Arduino, but much more advanced) can be done by all li
 and explain to your CEO: how many customers you will have and what kind of ecosystem you will have.<br>
 [Something like that happens](https://www.youtube.com/watch?v=esO7zpXCDjs&ab_channel=GeorgiAngelov)
 
-TODO: blah...
+TODO: blah ... many tests !!!
