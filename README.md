@@ -42,7 +42,7 @@ Then: MAKE + Shell + Python to invoke GCC with flags and files !?!?!<br>
 VSCode / **PlatformIO** uses SCONS, which is a cross-platform and powerful **Python Build System**<br>
 I don't know a developer who doesn't have Python installed on their computer.<br>
 Surely, you realize that Python is used to train AI, so running GCC should be a breeze.<br>
-( I intentionally translated it with ChatGPT )
+( I intentionally translated it (README.md) with ChatGPT )
 
 After several months of experiments and analysis, it turns out that <br>
 NuttX makefiles -> KEYS = VALUES -> GCC<br>
@@ -56,3 +56,5 @@ And the main idea is:<br>
 
 CLICK, CLICK (almost like Arduino, but much more advanced) can be done by all little and grown-up kids...<br>
 and explain to your CEO: how many customers you will have and what kind of ecosystem you will have.<br>
+
+TODO: blah...
