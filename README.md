@@ -8,7 +8,7 @@ To note the fact that in [48 years of Make](https://en.wikipedia.org/wiki/Make_(
 
 The idea started years ago with the Raspberry Pi Pico SDK ( **wizio-pico** ).<br>
 
-I must note that it is incompetently constructed SDK, CMAKE-based, for a handful of ARM code<br>
+I must note that it is incompetently constructed SDK, CMAKE-based ... for a handful of ARM code<br>
 ( this is not negativity towards Raspberry, it is simply the way things are ).<br>
 
 **What happens**:<br>
